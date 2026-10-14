@@ -55,7 +55,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 07 | igor.pereira@sptech.school | Blue Cheese Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/igor_pereira_sptech_school/IQCqt9FMeYdbRJukiGQAj8gjAfKs-cL8G7m08feIw0PGads?e=Yv3O12) | `▰▰▰▰▰▰▱▱▱▱ 60%` |
 | 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `▰▰▰▰▰▰▰▱▱▱ 70%` |
-| 09 | kevin.asilva@sptech.school | SISTEMA DE MONITORAMENTO IoT DE LUMINOSIDADE PARA CULTIVO OUTDOOR DE VANILLA PLANIFOLIA EM ESTUFA TELADA | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/kevin_asilva_sptech_school/IQDoUfa1cmv2RaHZIpImusoeAbAqrt7CdybdZgUUNdcOnvc?e=mp5OWr) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 09 | kevin.asilva@sptech.school | SISTEMA DE MONITORAMENTO IoT DE LUMINOSIDADE PARA CULTIVO OUTDOOR DE VANILLA PLANIFOLIA EM ESTUFA TELADA | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/kevin_asilva_sptech_school/IQDoUfa1cmv2RaHZIpImusoeAbAqrt7CdybdZgUUNdcOnvc?e=mp5OWr) | `▰▰▰▰▰▰▰▰▱▱ 80%` |
 | 10 | vitor.tsumura@sptech.school | Tetria | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/r/personal/giovanna_carneiro_sptech_school/_layouts/15/Doc.aspx?sourcedoc=%7BE60FDCD6-4658-4F42-B56B-CF1EEED6D70D%7D&file=Abelha%20Jata%25u00ed.docx&fromShare=true&action=default&mobileredirect=true) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 11 | nickolas.silva@sptech.school | MaqTemp | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/r/personal/thayssa_souza_sptech_school/_layouts/15/Doc.aspx?sourcedoc=%7BD5355AEE-9CED-4782-84B5-F976EA4B685D%7D&file=Documentacao_Projeto_TI_MaqTemp_Grupo7.docx&fromShare=true&action=default&mobileredirect=true) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 
@@ -292,9 +292,9 @@ Cada grupo desenvolve **7 entregáveis**:
 | Contexto | `▰▰▰▰▰▰▰▰▰▰ 100%` |
 | Protótipo do site | `▰▰▰▰▰▰▰▰▰▰ 100%` |
 | Banco de dados | `▰▰▰▰▰▰▰▰▰▰ 100%` |
-| Simulador financeiro | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| Simulador financeiro | `▰▰▰▰▰▰▰▰▰▰ 100%` |
 | Documentação | `▰▰▰▰▰▰▰▰▰▱ 90%` |
-| Site final | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| Site final | `▰▰▰▰▰▰▰▰▱▱ 80%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
 </details>
